@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // Position of the vertical axis.
 const X_LINE = 50;
 // General-use margin size.
